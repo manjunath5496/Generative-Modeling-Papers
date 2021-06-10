@@ -48,7 +48,7 @@ on the Natural Image Manifold</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Generative-Modeling-Papers/blob/master/gm(24).pdf" style="text-decoration:none;">Seeing What a GAN Cannot Generate</a></li>
  
    <li><a target="_blank" href="https://github.com/manjunath5496/Generative-Modeling-Papers/blob/master/gm(25).pdf" style="text-decoration:none;">Generative 3D Part Assembly via Dynamic Graph Learning</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Generative-Modeling-Papers/blob/master/gm(26).pdf" style="text-decoration:none;">StyleFlow: Aribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Generative-Modeling-Papers/blob/master/gm(26).pdf" style="text-decoration:none;">StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Generative-Modeling-Papers/blob/master/gm(27).pdf" style="text-decoration:none;">Image Processing Using Multi-Code GAN Prior</a></li>
    
  
